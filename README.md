@@ -21,7 +21,8 @@
 
 ## 기술 스택
  ### Frontend<br>
- 
+ * React
+
 <br>
 
  ### Backend<br>
